@@ -1,4 +1,3 @@
-# Osint-mini-project
 **Purpose**
 This small OSINT project demonstrates practical data gathering and analysis using public geospatial sources (OpenStreetMap). It shows:
 - How to query public map data (Overpass API).
